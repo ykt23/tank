@@ -1,0 +1,25 @@
+html {
+    font-family: 'Caveat', cursive;
+    background-color: gainsboro;
+}
+h1 {
+    font-size: 80px;
+    text-align: center;
+}
+p, li{
+    font-size: 20px;
+    textheing: 2;
+    letter-spacing: 1px;
+}
+body {
+    width: 80%;
+    margin: 0 avto;
+    background-color: rgb(111, 131, 186);
+    padding: 0 20px 20px 20px;
+    border:  0px solid rgb(1, 0, 0);
+}
+img {
+    display:block;
+    margin: 0 auto;
+    width: 80%;
+}
